@@ -1,8 +1,8 @@
 fastapi
 uvicorn
-geopandas
-shapely
-fiona
-pyproj
 requests
 python-multipart
+geopandas==0.14.3
+fiona==1.9.5
+shapely==2.0.3
+pyproj==3.6.1
